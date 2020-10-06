@@ -1,0 +1,8 @@
+# For when the dice of a board game gets lost :P
+import random 
+nums = []
+n_dice = int(input("How many dice? "))
+for i in range(n_dice):
+    nums.append(random.randint(1,6))
+print(f"You rolled a {[x for x in nums]}!")
+print(f"Sum = {sum(nums)}")
