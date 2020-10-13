@@ -1,5 +1,5 @@
-# Sanke Game
-Created sanke game in python using tkinter and random module.
+# Snake Game
+Created snake game in python using tkinter and random module.
 
 # How to Play
 
